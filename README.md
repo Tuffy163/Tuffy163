@@ -1,1 +1,1 @@
-![Metrics](https://metrics.lecoq.io/Tuffy163?template=classic&config.timezone=Asia%2FShanghai)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=minecraft&duration=10000&pause=1000&color=000000&background=FFFFFF00&center=true&vCenter=true&repeat=false&width=435&lines=Is+your+plan+txt+or+exe%3F" alt="Typing SVG" /></a>

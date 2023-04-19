@@ -1,1 +1,2 @@
-<p><img height=170px src="https://github-readme-stats.vercel.app/api?username=tuffy163&show_icons=true&locale=en" alt="tuffy163" /> <img height=170px src="https://github-readme-streak-stats.herokuapp.com/?user=tuffy163&" alt="tuffy163" /></p>
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com?color=000000&center=true&vCenter=true&lines=Is+your+plan+txt+or+exe%3F"></p>
+<div align="center"><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api?username=Tuffy163" /><span>  </span><img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tuffy163&layout=compact&langs_count=8" /><span>  </span></div>
